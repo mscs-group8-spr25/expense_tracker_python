@@ -1,6 +1,6 @@
 # Expense Tracker Python
 
-A Python-based expense tracking application. 
+A Python-based expense tracking application. \
 **Deployed app can be found here: https://expense-tracker-python-3474.onrender.com/**
 
 ## Setup Instructions
